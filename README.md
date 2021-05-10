@@ -11,10 +11,9 @@ Then put the text you want to encode / decode into input.txt or any other file w
 Open terminal in root and start work.
 
 #### example:
-- node index.js -a decode -s 64 -i 'input.txt' -o 'output.txt'
+    node index.js -a decode -s 64 -i 'input.txt' -o 'output.txt'
 
-If you want to encode or decode text without using files, then:
-- node index.js -a encode -s -20 -st 'Hello world!'
+***also cli contains all the functions and capabilities described in the task***
 
 (project files in 'work' branch)
 
