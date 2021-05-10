@@ -16,5 +16,7 @@ Open terminal in root and start work.
 If you want to encode or decode text without using files, then:
 - node index.js -a encode -s -20 -st 'Hello world!'
 
+(project files in 'work' branch)
+
 
 
